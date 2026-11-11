@@ -1,0 +1,11 @@
+Retail Sales Performance & Customer Segmentation — SYNTHETIC RESULTS
+Orders: 5000, Customers: 800, Total revenue: GBP 439515.38
+Date range: 2023-01-01 to 2024-12-30
+Average order value: GBP 87.90
+Peak month revenue: GBP 24393.77 in 2024-06
+Segments (KMeans k=4 on RFM):
+  Segment 0: customers=142 avg_monetary=GBP 1003.59 avg_frequency=9.93 avg_recency_days=72.9
+  Segment 1: customers=311 avg_monetary=GBP 594.49 avg_frequency=7.02 avg_recency_days=79.2
+  Segment 2: customers=250 avg_monetary=GBP 310.88 avg_frequency=4.14 avg_recency_days=101.2
+  Segment 3: customers=96 avg_monetary=GBP 358.33 avg_frequency=3.89 avg_recency_days=356.6
+Highest-value segment: 0 (avg monetary GBP 1003.59)
